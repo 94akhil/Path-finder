@@ -1,6 +1,6 @@
 # Path-finder
 
-Our project is a VR simulation of building and using paths from one point to another. We
+The project is a VR simulation of building and using paths from one point to another. We
 created an experience of interactivity with different objects and obstacles for the user that
 requires various levels of problem-solving to overcome. Our motivation was to make a game
 that would allow the player to freely solve these puzzles and create their own paths to a goal.
